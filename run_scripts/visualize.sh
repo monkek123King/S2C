@@ -1,0 +1,1 @@
+python infer.py --exp_path /path/to/logs --data_root /path/to/PianoMotion10M_Dataset --valid_batch_size 64 --mode valid
