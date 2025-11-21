@@ -1,0 +1,15 @@
+/checkpoints
+/mano/*.pkl
+/logs
+/results
+/rec
+/vq
+
+.vscode
+*__pycache__*
+/annotation
+/audio
+/midi
+/test.txt
+/train.txt
+/valid.txt
