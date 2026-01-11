@@ -158,10 +158,11 @@ python infer.py --exp_path /path/to/logs --data_root /path/to/PianoMotion10M_Dat
 If you find our work useful for your research, please consider citing our paper and giving this repository a star 🌟.
 
 ```bibtex
-@article{liu2025s2c,
+@inproceedings{liu2025separate,
   title={Separate to Collaborate: Dual-Stream Diffusion Model for Coordinated Piano Hand Motion Synthesis},
   author={Liu, Zihao and Ou, Mingwen and Xu, Zunnan and Huang, Jiaqi and Han, Haonan and Li, Ronghui and Li, Xiu},
-  journal={arXiv preprint arXiv:2504.09885},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={9743--9752},
   year={2025}
 }
 ```
